@@ -1,0 +1,11 @@
+iframe {
+	margin: 0 auto;
+	background-color: #777;
+	display: block;
+}
+
+.center_image {
+	margin: auto;
+	padding: 10px;
+	display: block;
+}
