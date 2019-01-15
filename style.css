@@ -65,3 +65,19 @@ html {
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.redirect a:link {
+	color: yellow;
+  }
+
+.redirect a:visited {
+	color: goldenrod;
+}
+
+.redirect a:hover {
+	color: pink;
+}
+
+.redirect a:active {
+	color: magenta;
+}
