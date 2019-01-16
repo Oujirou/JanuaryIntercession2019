@@ -16,11 +16,13 @@ html {
 	top: 0;
 	left: 0;
 	width: 100%;
+	display: inline-block;
+	float: none;
+	
 }
 
 .topnav a {
-	float: left;
-	display: block;
+	vertical-align:middle;
 	color: white;
 	text-align: center;
 	padding: 10px 15px;
@@ -76,6 +78,8 @@ html {
 
 .redirect a:hover {
 	color: pink;
+	border-bottom: 1px;
+	border-color: green;
 }
 
 .redirect a:active {
